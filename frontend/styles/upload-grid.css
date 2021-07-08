@@ -1,0 +1,40 @@
+.cellGrid {
+    /*padding-left: 3px;*/
+    /*color: brown;*/
+    background: red;
+    /*align-items: flex-start;*/
+}
+
+.user-box {
+    /*border: 2px solid black;*/
+    border-radius: 2%;
+    background: lightgrey;
+
+    text-align: center;
+    color: royalblue;
+    font-size: 20px;
+
+    margin-inside: 3px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+
+    height: 36px;
+    width: 500px;
+}
+
+.visit-box {
+    /*border: 2px solid black;*/
+    border-radius: 2%;
+    background: lightsteelblue;
+
+    text-align: center;
+    color: royalblue;
+    font-size: 20px;
+
+    margin-inside: 3px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+
+    height: 36px;
+    width: 700px;
+}
